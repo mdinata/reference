@@ -1,5 +1,5 @@
 # Introduction to CODING
-## Session 1. Getting ready
+## Getting ready
 ### Preparation
 Please ensure you are connected to internet during early stages of this workshop as some installation may require internet connection. Ask for wifi name and password.
 
