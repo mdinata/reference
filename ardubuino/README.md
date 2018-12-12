@@ -1,1 +1,2 @@
-# This is guide to build Ardubuino
+# Ardubuino Build Guide
+Available in two versions, Bahasa and English. Enjoy building.
