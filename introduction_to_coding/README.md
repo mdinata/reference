@@ -17,7 +17,7 @@ To write program, manage file, run and transfer the program we need an IDE (=Int
 
 * Linux user <https://github.com/DFRobot/uPyCraft/blob/master/uPyCraft_linux_V0.30>.
 
-During the first run, there might be a prompt to install specific font. If so, follow the instruction.
+During the first run, there might be a prompt to install specific font. If so, follow the instruction. <br/>
 ![](https://github.com/mdinata/reference/blob/master/images/install_monaco.png)
 
 ### Getting to know your microcontroller
