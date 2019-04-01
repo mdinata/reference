@@ -3,8 +3,8 @@ This repository is place for workshop content
 
 ## Workshop Enquiry
 Contact 0857 8288 2122
-## Upcoming Workshop
-
+## Upcoming WorkshopP
+![Cover Depan](images/Publication_6_Apr_2019.jpg)
 ## Workshop History
 | When | Topic | Participant |
 | ------ | ------ | ------ |
