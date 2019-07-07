@@ -11,14 +11,9 @@ To connect to the microcontroller via serial communication protocol, install dri
 
 To write program, manage file, run and transfer the program we need an IDE (=Integrated Development Environment). The most user friendly IDE, is uPyCraft. 
 
-* Windows user <https://github.com/DFRobot/uPyCraft/blob/master/uPyCraft_V0.30.exe>
+* Windows user <https://github.com/thonny/thonny/releases/download/v3.1.2/thonny-3.1.2.exe>
 
-* MacOS user <https://github.com/DFRobot/uPyCraft/blob/master/uPyCraft_mac_V1.0.zip>
-
-* Linux user <https://github.com/DFRobot/uPyCraft/blob/master/uPyCraft_linux_V0.30>.
-
-During the first run, there might be a prompt to install specific font. If so, follow the instruction. <br/>
-![](https://github.com/mdinata/reference/blob/master/images/install_monaco.png)
+* MacOS user <https://github.com/thonny/thonny/releases/download/v3.1.2/thonny-3.1.2.dmg>
 
 ### Getting to know your microcontroller
 This is ESP8266 MCU (=Micro Controller Unit). It is a small computation system that has its own processor that runs at 80 MHz clock frequency or 160 MHz when overclocked. It has 64 Kb RAM and 4 MB flash memory for storage. Most importantly it has wifi device to connect to internet and run as webserver.
@@ -34,19 +29,18 @@ For MacOS and Linux user your port is **/dev/ttyUSB0** by default.
 
 ![](https://github.com/mdinata/reference/blob/master/images/COM_PORT.png)
 
-#### Micro Python version
+#### MicroPython version
 The latest Micro Python version is pre-installed and loaded with programs to connect to wifi and find access point name.
 
 
 #### About Thonny IDE
 The coding will be performed inside Thonny IDE. It is important to get familiar with program environment. Worry not, we just need to remember few things:<br/>
+![](https://github.com/mdinata/reference/blob/master/images/Thonny-options.png)
 
-* Tool > Board and select ESP8266
-* Tool > Serial and select COM port
-* Left panel is File Explorer area for file navigation with drag-drop convinience
-* Top panel is Editor area where code will be written, checked for errors before transfer
-* Bottom panel is the interactive session called REPL (Read-Evaluate-Print-Loop). You will see sign >>> when the ESP8266 is connected and ready to receive instruction.
+* Tools > Options
+* Interpreter > Micropython on generic device  
+* You will see sign >>> when the ESP8266 is connected and ready to receive instruction.
 
-![](https://github.com/mdinata/reference/blob/master/images/uPyCraft.png)
+![](https://github.com/mdinata/reference/blob/master/images/Thonny-workspace.png)
 
 That is all for now, more will be explored during the workshop session.
